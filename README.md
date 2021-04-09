@@ -4,7 +4,7 @@ In this project we implement a [facial mask classifier](https://nbviewer.jupyter
 ![](onefacemask.png)
 
 ![](maskfinal.png)
-where we used a green rectangle to represent a mask detection and a red one when no mask is detected. The code also displays the text "Mask" or "No Mask" and what is the percentage that the algorithm based it's decision on. We also used the same model for mask detection, without the percentages, [using webcam](mask_recog.py) (yes, this is me): 
+where we used a green rectangle to represent a mask detection and a red one when no mask is detected. The code also displays the text "Mask" or "No Mask" and what is the percentage that the algorithm based it's decision on. We also used the same model for mask detection, without the percentages, using a [webcam](mask_recog.py) (yes, this is me): 
 
 ![](masktest.gif)
 
