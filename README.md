@@ -4,7 +4,11 @@ In this project we implement a [facial mask classifier](https://nbviewer.jupyter
 ![](onefacemask.png)
 
 ![](maskfinal.png)
-where we used a green rectangle to represent a mask detection and a red one when no mask is detected. The code also displays the text "Mask" or "No Mask" and what is the percentage that the algorithm based it's decision on. This project is still under development, not only for better detection (some faces and masks are not detected) but we also want to use the same model to detect if someone is using a mask or not using a webcam.
+where we used a green rectangle to represent a mask detection and a red one when no mask is detected. The code also displays the text "Mask" or "No Mask" and what is the percentage that the algorithm based it's decision on. We also used the same model for mask detection, without the percentages, using webcam (yes, this is me): 
+
+![](masktest.gif)
+
+This project is still under development, since some faces and masks are not detected we want to further improve it.
 
 Data Source: [Kaggle](https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset)
  
