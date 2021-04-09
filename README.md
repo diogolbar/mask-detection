@@ -8,7 +8,7 @@ where we used a green rectangle to represent a mask detection and a red one when
 
 ![](masktest.gif)
 
-This project is still under development and need to be improved since some faces and masks are still not detected.
+This project is still under development and need to be improved since some faces and masks are not detected.
 
 Data Source: [Kaggle](https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset)
  
