@@ -6,7 +6,7 @@ In this project we implement a [facial mask classifier](https://nbviewer.jupyter
 ![](maskfinal.png)
 where we used a green rectangle to represent a mask detection and a red one when no mask is detected. The code also displays the text "Mask" or "No Mask". We also used the same model for mask detection using a [webcam](mask_recog.py) (yes, this is me): 
 
-![](masktest.gif)
+![](camtest.gif)
 
 This project is still under development and need to be improved since some faces and masks are not detected.
 
